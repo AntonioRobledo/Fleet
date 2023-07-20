@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Fleet/static/css/main.00f52e6b.css",
+    "main.js": "/Fleet/static/js/main.07086f95.js",
+    "static/js/787.07d2fad1.chunk.js": "/Fleet/static/js/787.07d2fad1.chunk.js",
+    "static/media/image3.jpg": "/Fleet/static/media/image3.60953b2be25cf7a13bd6.jpg",
+    "static/media/nissanGTR.png": "/Fleet/static/media/nissanGTR.e91d7169a1a067dbd6d5.png",
+    "static/media/Camaro.png": "/Fleet/static/media/Camaro.649f7453e85e0c11c450.png",
+    "static/media/Car-lot4.jpg": "/Fleet/static/media/Car-lot4.f3a9bee5bf3d4015e7d4.jpg",
+    "static/media/Tesla.png": "/Fleet/static/media/Tesla.dd939a9966eec8030351.png",
+    "static/media/Toyota.png": "/Fleet/static/media/Toyota.37961dbdb4ed81cc9573.png",
+    "static/media/Mazda.png": "/Fleet/static/media/Mazda.3a2dfc32f332b86ede75.png",
+    "static/media/logo2.png": "/Fleet/static/media/logo2.cef94c10c8b3292d2094.png",
+    "static/media/Hyundai.png": "/Fleet/static/media/Hyundai.372f3459c55313f3ec7b.png",
+    "static/media/pattern.jpg": "/Fleet/static/media/pattern.dd3aa03854a8eee2508d.jpg",
+    "static/media/Porsche.png": "/Fleet/static/media/Porsche.d615e5a3fd9c6dec6f73.png",
+    "static/media/image2.jpg": "/Fleet/static/media/image2.7fbed598485e57a335cb.jpg",
+    "static/media/HondaAccord.png": "/Fleet/static/media/HondaAccord.e17b908f59c092b1ee20.png",
+    "static/media/image1.jpg": "/Fleet/static/media/image1.a45337a95dddfe56cadd.jpg",
+    "static/media/SuccessLogo.png": "/Fleet/static/media/SuccessLogo.fecaf390310dc1d2da5f.png",
+    "index.html": "/Fleet/index.html",
+    "main.00f52e6b.css.map": "/Fleet/static/css/main.00f52e6b.css.map",
+    "main.07086f95.js.map": "/Fleet/static/js/main.07086f95.js.map",
+    "787.07d2fad1.chunk.js.map": "/Fleet/static/js/787.07d2fad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f52e6b.css",
+    "static/js/main.07086f95.js"
+  ]
+}
