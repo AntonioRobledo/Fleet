@@ -1,10 +1,9 @@
 {
 	"name": "rent-a-car",
 	"version": "0.1.0",
-	
+	"homepage": "http://AntonioRobledo.github.io/Fleet",
 	"private": true,
 	"proxy": "http://localhost:3001",
-	
 	"dependencies": {
 		"@apollo/client": "^3.7.15",
 		"@stripe/react-stripe-js": "^2.1.0",
