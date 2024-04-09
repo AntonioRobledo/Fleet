@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fleet/static/css/main.00f52e6b.css",
-    "main.js": "/Fleet/static/js/main.07086f95.js",
+    "main.js": "/Fleet/static/js/main.0b2e5e1f.js",
     "static/js/787.07d2fad1.chunk.js": "/Fleet/static/js/787.07d2fad1.chunk.js",
     "static/media/image3.jpg": "/Fleet/static/media/image3.60953b2be25cf7a13bd6.jpg",
     "static/media/nissanGTR.png": "/Fleet/static/media/nissanGTR.e91d7169a1a067dbd6d5.png",
@@ -20,11 +20,11 @@
     "static/media/SuccessLogo.png": "/Fleet/static/media/SuccessLogo.fecaf390310dc1d2da5f.png",
     "index.html": "/Fleet/index.html",
     "main.00f52e6b.css.map": "/Fleet/static/css/main.00f52e6b.css.map",
-    "main.07086f95.js.map": "/Fleet/static/js/main.07086f95.js.map",
+    "main.0b2e5e1f.js.map": "/Fleet/static/js/main.0b2e5e1f.js.map",
     "787.07d2fad1.chunk.js.map": "/Fleet/static/js/787.07d2fad1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00f52e6b.css",
-    "static/js/main.07086f95.js"
+    "static/js/main.0b2e5e1f.js"
   ]
 }
