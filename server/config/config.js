@@ -7,6 +7,7 @@ const config = {
 		STRIPE_PUBLIC_KEY: process.env.STRIPE_PUBLIC_KEY_LIVE,
 		STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY_LIVE,
 	},
+	introspection: true
 };
 
 module.exports = config;
