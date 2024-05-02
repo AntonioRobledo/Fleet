@@ -1,5 +1,9 @@
 # Fleet
 
+## Description
+
+Booking a car is an essential part of any trip, but nobody likes the hassle of waiting around in an airport for their rental. Fleet - the car rental service that delivers to you. This app allows the user to pick a date, time, and vehicle of their choice. We then deliver the vehicle to the user’s chosen location. When everything is done, we'll pick the vehicle back up from you. 
+
 ## Technologies Used:
 
 * Node.js
@@ -10,11 +14,6 @@
 * MongoDB 
 * Nodemon
 * Stripe 
-
-
-## Description
-
-Booking a car is an essential part of any trip, but nobody likes the hassle of waiting around in an airport for their rental. Fleet - the car rental service that delivers to you. This app allows the user to pick a date, time, and vehicle of their choice. We then deliver the vehicle to the user’s chosen location. When everything is done, we'll pick the vehicle back up from you. 
 
 ## Installation
 
