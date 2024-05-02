@@ -27,11 +27,8 @@ The user is presented with a landing page that features an option to book their 
 When the user clicks the “book a car” section of the landing page, they will be directed to a form asking for a drop-date, return date, and personal information. Once the user clicks “confirm” the app will be able to detect whether or not the user is logged in. If the user is not logged in or does not have an account, they will be redirected to the login page. 
 After the user pays for their vehicle order, they will be redirected to the landing page. 
 
-
-SCREENSHOT OF HOMEPAGE BELOW
-    `
-    ![screenshot](client/src/images/Car/home_page.png)
-    ![screenshot](client/src/images/book_car.png)
+![screenshot](client/src/images/Car/home_page.png)
+![screenshot](client/src/images/book_car.png)
 ## Credits
 
 * Maegan Batorek
